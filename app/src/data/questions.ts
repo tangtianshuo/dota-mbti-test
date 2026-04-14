@@ -760,7 +760,7 @@ export const questions: Question[] = [
   },
   {
     "id": 35,
-    "question": "对面有外挂，无限瞬移、锁头，你会？",
+    "question": "对面有外挂，你会？",
     "options": [
       {
         "value": "A",
