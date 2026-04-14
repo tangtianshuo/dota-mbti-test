@@ -1,5 +1,4 @@
 {
-  "root": "app",
   "buildCommand": "cd app && npx vite build",
   "outputDirectory": "app/dist",
   "installCommand": "cd app && npm install",
