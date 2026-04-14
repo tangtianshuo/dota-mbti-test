@@ -122,7 +122,7 @@ export const questions: Question[] = [
   },
   {
     "id": 6,
-    "question": "队友打野被对面反蹲，送了人头，还怪你没支援，你会？",
+    "question": "队友野区伐木被对面反蹲，送了人头，还怪你没支援，你会？",
     "options": [
       {
         "value": "A",
@@ -130,7 +130,7 @@ export const questions: Question[] = [
       },
       {
         "value": "B",
-        "text": "回喷：你自己打野不看小地图，怪我？脑子有问题？"
+        "text": "回喷：你自己采灵芝不看小地图，怪我？脑子有问题？"
       },
       {
         "value": "C",
@@ -358,7 +358,7 @@ export const questions: Question[] = [
       },
       {
         "value": "D",
-        "text": "默默打野，眼不见心不烦，让他自己玩"
+        "text": "默默野区采蘑菇，眼不见心不烦，让他自己玩"
       }
     ]
   },
@@ -456,7 +456,7 @@ export const questions: Question[] = [
     "options": [
       {
         "value": "A",
-        "text": "猥琐发育，等打野来帮，不冲动"
+        "text": "稳如老狗"
       },
       {
         "value": "B",
@@ -672,23 +672,23 @@ export const questions: Question[] = [
   },
   {
     "id": 31,
-    "question": "你玩打野，被对面反野，还被单杀，你会？",
+    "question": "你拉野发育，被对面3号位摸过来骚扰，还被杀了，你会？",
     "options": [
       {
         "value": "A",
-        "text": "换个野区刷，不跟对面硬刚，保命要紧"
+        "text": "TP去其他野点继续刷，尽量别死"
       },
       {
         "value": "B",
-        "text": "喷队友：你们不会来帮我反野吗？就看着我被单杀？"
+        "text": "打感叹号 ping队友：中路呢？酱油呢？不知道我拉野危险吗？"
       },
       {
         "value": "C",
-        "text": "摆烂，不打野了，去线上送人头，报复性摆烂"
+        "text": "开麦骂人，泉水挂机，爱谁谁"
       },
       {
         "value": "D",
-        "text": "默默查对面打野位置，等机会反回去"
+        "text": "默默等复活，买活反蹲，找机会报仇"
       }
     ]
   },
